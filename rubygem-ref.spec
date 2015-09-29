@@ -4,7 +4,7 @@
 #
 Name     : rubygem-ref
 Version  : 1.0.5
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/ref-1.0.5.gem
 Source0  : https://rubygems.org/downloads/ref-1.0.5.gem
 Summary  : No detailed summary available
